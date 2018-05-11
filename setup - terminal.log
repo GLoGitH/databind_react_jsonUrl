@@ -1,0 +1,36 @@
+Microsoft Windows [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Edu\databind React ext url>eslint init
+
+C:\Edu\databind React ext url>git init
+Initialized empty Git repository in C:/Edu/databind React ext url/.git/
+
+C:\Edu\databind React ext url>git config user.email Gert.Longin@ventigrate.be
+
+C:\Edu\databind React ext url>git config user.name "GLoGitH"
+
+C:\Edu\databind React ext url>echo "# databind_react_jsonUrl" >> README.md
+
+C:\Edu\databind React ext url>git add README.md
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory.
+
+C:\Edu\databind React ext url>git commit -m "first commit"
+[master (root-commit) 7908315] first commit
+ 1 file changed, 2445 insertions(+)
+ create mode 100644 README.md
+
+C:\Edu\databind React ext url>git remote add origin https://github.com/GLoGitH/databind_react_jsonUrl.git
+
+C:\Edu\databind React ext url>git push -u origin master
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 38.81 KiB | 1.39 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/GLoGitH/databind_react_jsonUrl.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+C:\Edu\databind React ext url>
