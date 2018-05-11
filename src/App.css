@@ -33,8 +33,9 @@
   to { transform: rotate(360deg); }
 }
 
-td
+.tablestyle td
 {
+  border-style: solid;
   border-color: aquamarine;
   border-width: 1px;
   padding: 5px;
